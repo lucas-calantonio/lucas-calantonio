@@ -18,6 +18,11 @@ Busco alinhar minhas competências técnicas com meus objetivos profissionais, v
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-calantonio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Projetos
+
+(https://github-readme-stats.vercel.app/api/pin/?username=lucas-calantonio&repo=CalcLinux.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-calantonio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
